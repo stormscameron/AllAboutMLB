@@ -14,5 +14,12 @@ h1, h2, h3, h4, h5, h6, li, p{ text-align: center;
 
 
 
+a{ color:white;}
+
+a: visited { color:tomato;}
+
+
+a:hover {color:purple;}
+
 
 
