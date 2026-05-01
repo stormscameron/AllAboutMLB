@@ -22,5 +22,10 @@ a: visited { color:tomato;}
 
 a:hover {color:purple;}
 
-iframe{ margin-left:auto; margin-right:auto;} 
+.video-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+}
 
