@@ -28,4 +28,9 @@ a:hover {color:purple;}
     align-items: center;     
     height: 100vh;           
 }
-
+.video-wrapper {
+    text-align: center;
+}
+.video-wrapper iframe,
+.video-wrapper video {
+    display: inline-block;
