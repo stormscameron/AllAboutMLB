@@ -34,3 +34,5 @@ a:hover {color:purple;}
 .video-wrapper iframe,
 .video-wrapper video {
     display: inline-block;
+
+          iframe{float:center;}
