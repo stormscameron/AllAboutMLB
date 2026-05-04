@@ -36,3 +36,7 @@ a:hover {color:purple;}
     display: inline-block;
 
           iframe{float:center;}
+
+hr{height: 2px;
+  background-color: black;
+  border-color: black;}
